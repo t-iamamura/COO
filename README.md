@@ -30,7 +30,7 @@ Implementado no `CarregadorDeProdutos` para a formatação dinâmica dos produto
 
 ## 🚀 Como Executar
 
-1. Certifica-te de que tens o Java instalado.
-2. Clona o repositório:
+1. Certifique-se de que tem o Java instalado.
+2. Clone o repositório:
    ```bash
    git clone [https://github.com/t-iamamura/COO.git](https://github.com/t-iamamura/COO.git)
